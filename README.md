@@ -1,10 +1,10 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://project-nerd.com/wp-content/uploads/2014/03/Matrix-Code-Banner.jpg))]
+
 
 <h1 align="center">Hi 👋, I'm Yash CHoudhary</h1>
 
 <h3 align="center">A passionate Data Scientist and Machine Learning enthusiast from India</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs7_bomR-JOzAgKlii_kZ48lUTzTbYWADH4A&usqp=CAU)">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashchoudhary04&label=Profile%20views&color=0e75b6&style=flat" alt="yashchoudhary04" /> </p>
 
