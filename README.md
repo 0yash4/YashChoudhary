@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate Data Scientist and Machine Learning enthusiast from India</h3>
 
-img align="right" alt="Coding" width="400" src="[https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All the data (1).gif](https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif)”
+<img align="right" alt="Coding" width="400" src="[https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_Allthedata.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs7_bomR-JOzAgKlii_kZ48lUTzTbYWADH4A&usqp=CAU)”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashchoudhary04&label=Profile%20views&color=0e75b6&style=flat" alt="yashchoudhary04" /> </p>
 
