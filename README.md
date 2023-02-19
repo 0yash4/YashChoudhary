@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...)]](https://static-cdn.jtvnw.net/jtv_user_pictures/54778d18-1802-49bf-b0d0-e948ca97efb7-profile_banner-480-320x160.jpeg)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://project-nerd.com/wp-content/uploads/2014/03/Matrix-Code-Banner.jpg))]
 
 <h1 align="center">Hi 👋, I'm Yash CHoudhary</h1>
 
