@@ -11,7 +11,6 @@
 - 🌱 I’m currently learning **Machine Learning algorithms**
 - 💬 Ask me about **Python, Data Science, Statistics**
 - 📫 How to reach me **4yashchoudhary@gmail.com**
-- ⚡ Fun fact **Am 8/10 in every field**
 
 <h3 align="left">Connect with me:</h3>
 
